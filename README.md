@@ -18,10 +18,9 @@
 ## 🛠️ Technologies Used
 
 - **Framework**: React Native (Expo)
-- **Cloud APIs**: Google Drive API, Dropbox API
-- **Security**: Expo SecureStore, LocalAuthentication, OAuth 2.0
+- **Cloud Plateforms Used**: Google Drive, Dropbox, One Drive
+- **Security**: Expo SecureStore, LocalAuthentication
 - **IDE**: Visual Studio Code
-- **Backend (Optional)**: Node.js + Express
 
 ---
 
